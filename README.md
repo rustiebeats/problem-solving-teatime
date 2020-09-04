@@ -1,6 +1,9 @@
 # PS 향유회
 
 ![PS/KakaoTalk_Image_2019-12-09-09-30-29_002.jpeg](PS/KakaoTalk_Image_2019-12-09-09-30-29_002.jpeg)
+
+매일 알고리즘을 풀어보는 단톡방 :)
+
 # 채팅방 링크
 
 [https://open.kakao.com/o/g3antjMb](https://open.kakao.com/o/g3antjMb)
@@ -54,12 +57,1205 @@
 
 # 플랫폼
 
-- 중상급 한 문제 : 백준
+- 백준
     - [https://www.acmicpc.net/](https://www.acmicpc.net/)
-- 중하급 두 문제 : 릿코드
+- 릿코드
     - [https://leetcode.com/](https://leetcode.com/)
 
+# 알고리즘 대회 캘린더
+
+엣코더, 코드포스 등 대회를 자주 확인할 수 있습니다. 구글 캘린더로 등록하면 유용합니다.
+
+해커랭크 캘린더 : https://www.hackerrank.com/calendar
+
+알고리즘 대회 캘린더 : https://competitiveprogramming.info/calendar
+
+# 추천문제 자동생성기
+
+추천문제 템플릿을 자동으로 생성하여 관리하고 있습니다.
+
+https://github.com/sesang06/ps-teatime-template
+
+# 공지 : PS 향유회 알고리즘 대회
+
+- 알고리즘 대회를 준비하고 있습니다.
+- 10월 출시 목표입니다.
+- 외부 검수자를 모집하고 있습니다. 지원하시는 분은 카톡방에서 말씀해 주세요.
+
+ 
+
 # 향유문제
+
+### 2020년 9월 4일
+
+- 중하급
+    - 후위 표기식2
+        - [https://www.acmicpc.net/problem/1935](https://www.acmicpc.net/problem/1935)
+- 중상급
+    - Namje Adventure
+        - [https://www.acmicpc.net/problem/15826](https://www.acmicpc.net/problem/15826)
+
+### 2020년 9월 3일
+
+- 중하급
+    - Word Processor
+        - [https://www.acmicpc.net/problem/18322](https://www.acmicpc.net/problem/18322)
+- 중상급
+    - Berry Picking
+        - [https://www.acmicpc.net/problem/18319](https://www.acmicpc.net/problem/18319)
+
+### 2020년 9월 1일
+
+- 중하급
+    - 킹
+        - [https://www.acmicpc.net/problem/1063](https://www.acmicpc.net/problem/1063)
+- 중상급
+    - 안정적인 네트워크
+        - [https://www.acmicpc.net/problem/2406](https://www.acmicpc.net/problem/2406)
+
+### 2020년 8월 28일
+
+- 중하급
+    - 수열 정렬
+        - [https://www.acmicpc.net/problem/1015](https://www.acmicpc.net/problem/1015)
+- 중상급
+    - 버블 소트
+        - [https://www.acmicpc.net/problem/1517](https://www.acmicpc.net/problem/1517)
+    - 마지막 사진 찍기
+        - [https://www.acmicpc.net/problem/2764](https://www.acmicpc.net/problem/2764)
+
+### 2020년 8월 24일
+
+- 중하급
+    - 절댓값 힙
+        - [https://www.acmicpc.net/problem/11286](https://www.acmicpc.net/problem/11286)
+- 중상급
+    - 걷는 산타클로스
+        - [https://www.acmicpc.net/problem/5552](https://www.acmicpc.net/problem/5552)
+
+### 2020년 8월 21일
+
+- 중하급
+    - 컨닝
+        - [https://www.acmicpc.net/problem/1014](https://www.acmicpc.net/problem/1014)
+- 중상급
+    - Copying Books
+        - [https://www.acmicpc.net/problem/3487](https://www.acmicpc.net/problem/3487)
+
+### 2020년 8월 19일
+
+- 중하급
+    - 평행사변형
+        - [https://www.acmicpc.net/problem/1064](https://www.acmicpc.net/problem/1064)
+- 중상급
+    - RFID 추적
+        - [https://www.acmicpc.net/problem/3659](https://www.acmicpc.net/problem/3659)
+
+### 2020년 8월 18일
+
+- 중하급
+    - 킹
+        - [https://www.acmicpc.net/problem/1063](https://www.acmicpc.net/problem/1063)
+- 중상급
+    - 어른 상어
+        - [https://www.acmicpc.net/problem/19237](https://www.acmicpc.net/problem/19237)
+
+### 2020년 8월 13일
+
+- 중하급
+    - 할아버지는 유명해!
+        - [https://www.acmicpc.net/problem/5766](https://www.acmicpc.net/problem/5766)
+- 중상급
+    - 팰린드롬
+        - [https://www.acmicpc.net/problem/2079](https://www.acmicpc.net/problem/2079)
+
+### 2020년 8월 12일
+
+- 중하급
+    - 구글 킥스타트 2020 Round D Record Breaker
+        - [https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000387171](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08/0000000000387171)
+- 중상급
+    - 구글 코드잼 Round 1C, 호박시럽
+        - [https://codingcompetitions.withgoogle.com/codejam/round/0000000000201842/0000000000201874](https://codingcompetitions.withgoogle.com/codejam/round/0000000000201842/0000000000201874)
+
+### 2020년 8월 11일
+
+- 중하급
+    - 2×n 타일링
+        - [https://www.acmicpc.net/problem/11726](https://www.acmicpc.net/problem/11726)
+- 중상급
+    - 스프레드시트
+        - [https://www.acmicpc.net/problem/6444](https://www.acmicpc.net/problem/6444)
+
+### 2020년 8월 10일
+
+- 중하급
+    - 도서관
+        - [https://www.acmicpc.net/problem/1461](https://www.acmicpc.net/problem/1461)
+- 중상급
+    - 우주 탐사선
+        - [https://www.acmicpc.net/problem/17182](https://www.acmicpc.net/problem/17182)
+
+### 2020년 8월 7일
+
+- 중하급
+    - Data Packing (Large)
+        - [https://www.acmicpc.net/problem/12235](https://www.acmicpc.net/problem/12235)
+- 중상급
+    - 같은 탑
+        - [https://www.acmicpc.net/problem/1126](https://www.acmicpc.net/problem/1126)
+
+### 2020년 8월 6일
+
+- 중하급
+    - Odd Even Linked List
+        - [https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/784/](https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/784/)
+- 중상급
+    - Polynomial
+        - [https://www.acmicpc.net/problem/11500](https://www.acmicpc.net/problem/11500)
+
+### 2020년 8월 5일
+
+- 중하급
+    - Leetcode, 3Sum
+        - [https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/776/](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/776/)
+- 중상급
+    - Ah-Choo!
+        - [https://www.acmicpc.net/problem/15822](https://www.acmicpc.net/problem/15822)
+
+### 2020년 8월 4일
+
+- 중하급
+    - 문자열
+        - [https://www.acmicpc.net/problem/1120](https://www.acmicpc.net/problem/1120)
+- 중상급
+    - 개구쟁이 준석이
+        - [https://www.acmicpc.net/problem/17480](https://www.acmicpc.net/problem/17480)
+
+### 2020년 8월 3일
+
+- 중하급
+    - 몬스터 트럭
+        - [https://www.acmicpc.net/problem/2897](https://www.acmicpc.net/problem/2897)
+- 중상급
+    - 트리나라
+        - [https://www.acmicpc.net/problem/12995](https://www.acmicpc.net/problem/12995)
+
+### 2020년 7월 31일
+
+- 중하급
+    - 문자열 집합
+        - [https://www.acmicpc.net/problem/14425](https://www.acmicpc.net/problem/14425)
+- 중상급
+    - 트리와 경로의 길이 2
+        - [https://www.acmicpc.net/problem/12935](https://www.acmicpc.net/problem/12935)
+
+### 2020년 7월 30일
+
+- 중하급
+    - 한 줄로 서기
+        - [https://www.acmicpc.net/problem/1138](https://www.acmicpc.net/problem/1138)
+- 중상급
+    - 옥토끼는 통신교육을 풀어라!!
+        - [https://www.acmicpc.net/problem/17383](https://www.acmicpc.net/problem/17383)
+
+### 2020년 7월 29일
+
+- 중하급
+    - 비밀번호 발음하기
+        - [https://www.acmicpc.net/problem/4659](https://www.acmicpc.net/problem/4659)
+- 중상급
+    - 오일러 회로
+        - [https://www.acmicpc.net/problem/1199](https://www.acmicpc.net/problem/1199)
+
+### 2020년 7월 28일
+
+- 중하급
+    - 프로그래머스, 디스크 컨트롤러
+        - [https://programmers.co.kr/learn/courses/30/lessons/42627](https://programmers.co.kr/learn/courses/30/lessons/42627)
+- 중상급
+    - 프로그래머스, 기지국 설치
+        - [https://programmers.co.kr/learn/courses/30/lessons/12979](https://programmers.co.kr/learn/courses/30/lessons/12979)
+
+### 2020년 7월 27일
+
+- 중하급
+    - 백준, 수리공 항승
+        - [https://www.acmicpc.net/problem/1449](https://www.acmicpc.net/problem/1449)
+- 중상급
+    - AtCoder, No Need
+        - [https://atcoder.jp/contests/abc056/tasks/arc070_b](https://atcoder.jp/contests/abc056/tasks/arc070_b)
+
+### 2020년 7월 23일
+
+- 중하급
+    - Code Jam, Vestigium
+        - [https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020993c](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020993c)
+- 중상급
+    - Code Jam, Rather Perplexing Showdown
+        - [https://codingcompetitions.withgoogle.com/codejam/round/0000000000201c91/0000000000201d1e](https://codingcompetitions.withgoogle.com/codejam/round/0000000000201c91/0000000000201d1e)
+
+### 2020년 7월 22일
+
+- 중하급
+    - 트리와 쿼리
+        - [https://www.acmicpc.net/problem/15681](https://www.acmicpc.net/problem/15681)
+- 중상급
+    - Dance Dance Revolution
+        - [https://www.acmicpc.net/problem/2342](https://www.acmicpc.net/problem/2342)
+
+### 2020년 7월 21일
+
+- 중하급
+    - 하노이 탑 이동 순서
+        - [https://www.acmicpc.net/problem/11729](https://www.acmicpc.net/problem/11729)
+- 중상급
+    - 새로운 하노이 탑
+        - [https://www.acmicpc.net/problem/12906](https://www.acmicpc.net/problem/12906)
+
+### 2020년 7월 20일
+
+- 중하급
+    - 결혼식
+        - [https://www.acmicpc.net/problem/5567](https://www.acmicpc.net/problem/5567)
+- 중상급
+    - 차이를 최대로 2
+        - [https://www.acmicpc.net/problem/16193](https://www.acmicpc.net/problem/16193)
+
+### 2020년 7월 17일
+
+- 중하급
+    - 트리
+        - [https://www.acmicpc.net/problem/1068](https://www.acmicpc.net/problem/1068)
+- 중상급
+    - 트리의 높이와 너비
+        - [https://www.acmicpc.net/problem/2250](https://www.acmicpc.net/problem/2250)
+
+### 2020년 7월 16일
+
+- 중하급
+    - 오셀로 재배치
+        - [https://www.acmicpc.net/problem/13413](https://www.acmicpc.net/problem/13413)
+- 중상급
+    - 합성함수와 쿼리
+        - [https://www.acmicpc.net/problem/17435](https://www.acmicpc.net/problem/17435)
+
+### 2020년 7월 15일
+
+- 중하급
+    - SHA-256
+        - [https://www.acmicpc.net/problem/10930](https://www.acmicpc.net/problem/10930)
+- 중상급
+    - 전구
+        - [https://www.acmicpc.net/problem/2449](https://www.acmicpc.net/problem/2449)
+
+### 2020년 7월 14일
+
+- 중하급
+    - 백준, 다각형의 대각선
+        - [https://www.acmicpc.net/problem/3049](https://www.acmicpc.net/problem/3049)
+- 중상급
+    - 백준, 네온사인
+    - [https://www.acmicpc.net/problem/8907](https://www.acmicpc.net/problem/8907)
+        - [http://boj.kr/14935fa75c1c402ab41da943233567aa](http://boj.kr/14935fa75c1c402ab41da943233567aa)
+        - 단색 삼각형의 수는, 전체 삼각형의 수에서 단색이 아닌 삼각형의 수를 빼는 것입니다.
+        - 전체 삼각형의 수는 nC3입니다.
+        - 단색이 아닌 삼각형은 (파, 빨, 빨) (빨, 파, 파) 로만 이루어져 있습니다.
+        - 한 꼭지점을 기준으로 빨간 것 한개, 파란 것 한개를 골랐을 경우, 이것은 반드시 단색이 아닙니다.
+        - 각각 꼭지점을 순회하며 그 꼭지점을 지나가는 튜브의 빨간색 수, 파란색 수를 세서 (빨간색 수)*(파란색 수) 를 하면 단색이 아닌 삼각형의 두 배가 됩니다.
+        - 구한 값을 전체 삼각형에서 빼면 단색 삼각형 수가 됩니다.
+
+### 2020년 7월 13일
+
+- 중하급
+    - 경로 찾기
+        - [https://www.acmicpc.net/problem/11403](https://www.acmicpc.net/problem/11403)
+- 중상급
+    - 팰린드롬 보행
+        - [https://www.acmicpc.net/problem/12950](https://www.acmicpc.net/problem/12950)
+        - 0번 점과 1번 점에서 순회를 시작합니다. (0, 1) 을 우선순위 큐에 넣습니다.
+        - (시작점, 끝점) 쌍을 큐에 넣는다는 생각을 합니다.
+        - 0번과 연결되어 있는 i번 정점, 1번과 연결되어 있는 j번 정점에 대하여, 0-i와 1-j가 같은 알파벳이면, 이것은 팰린드롬 경로의 후보가 됩니다. 그 후보군의 길이는 1 * 2입니다.
+        - 따라서 (i, j)를 큐에 넣고, 1을 저장합니다.
+        - 이런 방식으로 다익스트라 알고리즘을 다 돌리고 후보군의 길이를 저장합니다.
+        - (i,i) 가 길이가 존재하면, 0번 - i번 - 1 번으로 가는 팰린드롬 경로가 존재하는 것이고, 그 길이는 저장된 것의 2배입니다.
+        - (i,j) 의 길이가 존재하고, (i, j) 가 연결되어 있으면, 0번 - i번 - j번 - 1번으로 가는 팰린드롬 경로가 존재하는 것이고, 그 길이는 저장된 것의 2배에 1을 더한 것입니다.
+        - 최소값을 출력합니다.
+
+# 구글 킥스타트 2020 Round D
+
+풀이들
+
+- [https://codeforces.com/blog/entry/80040](https://codeforces.com/blog/entry/80040)
+
+### 2020년 7월 10일
+
+- 중하급
+    - 구글 킥스타트 2020 라운드 A, 얼로케이션
+        - [https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d3f56](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d3f56)
+- 중상급
+    - 구글 킥스타트 2020 라운드 A, 워크아웃
+        - [https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d3f5b](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d3f5b)
+
+### 2020년 7월 9일
+
+- 중하급
+    - 구글 킥스타트 2020 라운드 C, 안정된 벽
+        - [https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003379bb](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003379bb)
+- 중상급
+    - 구글 코드잼 2017 라운드 2, 신선한 초콜렛
+        - [https://codingcompetitions.withgoogle.com/codejam/round/0000000000201900/00000000002017f4](https://codingcompetitions.withgoogle.com/codejam/round/0000000000201900/00000000002017f4)
+
+### 2020년 7월 8일
+
+- 중하급
+    - 구글 킥스타트 2020 라운드 B, 자전거 여행
+        - [https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d82e6](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d82e6)
+- 중상급
+    - 구글 킥스타트 2020 라운드 B, 버스 경로
+        - [https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d83bf](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d83bf)
+
+### 2020년 7월 7일
+
+- 중하급
+    - 구글 킥스타트 2020 라운드 C, 카운트다운
+        - [https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003380d2](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003380d2)
+- 중상급
+    - 구글 킥스타트 2020 라운드 B, 로봇 경로 디코딩
+        - [https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d83dc](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8/00000000002d83dc)
+
+[https://tech.kakao.com/2020/07/01/2020-internship-test/](https://tech.kakao.com/2020/07/01/2020-internship-test/)
+
+카카오 인턴십 2020 풀이
+
+### 2020년 7월 6일
+
+- 중하급
+    - 프로그래머스, 카카오 2020 블라인드 채용, 문자열 압축
+        - [https://programmers.co.kr/learn/courses/30/lessons/60057](https://programmers.co.kr/learn/courses/30/lessons/60057)
+- 중상급
+    - 프로그래머스, 카카오 인턴십 2020, 동굴 탐험
+        - [https://programmers.co.kr/learn/courses/30/lessons/67260](https://programmers.co.kr/learn/courses/30/lessons/67260)
+
+### 2020년 7월 3일
+
+- 중하급
+    - 프로그래머스, 카카오 인턴십 2020, 수식 최대화
+        - [https://programmers.co.kr/learn/courses/30/lessons/67257](https://programmers.co.kr/learn/courses/30/lessons/67257)
+- 중상급
+    - 프로그래머스, 카카오 인턴십 2020, 보석 쇼핑
+        - [https://programmers.co.kr/learn/courses/30/lessons/67258](https://programmers.co.kr/learn/courses/30/lessons/67258)
+
+### 2020년 7월 2일
+
+- 중하급
+    - 프로그래머스, 카카오 인턴십 2020, 키패드 누르기
+        - [https://programmers.co.kr/learn/courses/30/lessons/67256](https://programmers.co.kr/learn/courses/30/lessons/67256)
+- 중상급
+    - 프로그래머스, 카카오 인턴십 2020, 경주로 건설
+        - [https://programmers.co.kr/learn/courses/30/lessons/67259](https://programmers.co.kr/learn/courses/30/lessons/67259)
+
+### 2020년 7월 1일
+
+- 중하급
+    - 백준, 스티커
+        - [https://www.acmicpc.net/problem/9465](https://www.acmicpc.net/problem/9465)
+- 중상급
+    - Coci 2015/2016, 2+1 세일
+        - [https://www.acmicpc.net/problem/11508](https://www.acmicpc.net/problem/11508)
+
+### 2020년 6월 30일
+
+- 중하급
+    - Coci 2015/2016, 카드세트
+        - [https://www.acmicpc.net/problem/11507](https://www.acmicpc.net/problem/11507)
+- 중상급
+    - Coci 2015/2016, 풍선 맞추기
+        - [https://www.acmicpc.net/problem/11509](https://www.acmicpc.net/problem/11509)
+
+### 2020년 6월 29일
+
+- 중하급
+    - 백준, 시리얼 번호
+        - [https://www.acmicpc.net/problem/1431](https://www.acmicpc.net/problem/1431)
+- 중상급
+    - 코드 잼 R2 2018, Graceful Chainsaw Jugglers
+        - [https://codingcompetitions.withgoogle.com/codejam/round/0000000000007706/00000000000459f3](https://codingcompetitions.withgoogle.com/codejam/round/0000000000007706/00000000000459f3)
+
+### 2020년 6월 26일
+
+- 중하급
+    - 백준, 병든 나이트
+        - [https://www.acmicpc.net/problem/1783](https://www.acmicpc.net/problem/1783)
+- 중상급
+    - 백준, AB
+        - [https://www.acmicpc.net/problem/12970](https://www.acmicpc.net/problem/12970)
+
+### 2020년 6월 25일
+
+- 중하급
+    - 백준, 절대값 힙
+        - [https://www.acmicpc.net/problem/11286](https://www.acmicpc.net/problem/11286)
+- 중상급
+    - 백준, 소수의 곱
+        - [https://www.acmicpc.net/problem/2014](https://www.acmicpc.net/problem/2014)
+
+### 2020년 6월 23일
+
+- 중하급
+    - 백준, 트리 순회
+        - [https://www.acmicpc.net/problem/1991](https://www.acmicpc.net/problem/1991)
+- 중상급
+    - 백준, 가장 가까운 공통 조상
+        - [https://www.acmicpc.net/problem/3584](https://www.acmicpc.net/problem/3584)
+
+### 2020년 6월 22일
+
+- 중하급
+    - 백준, 회사에 있는 사람
+        - [https://www.acmicpc.net/problem/7785](https://www.acmicpc.net/problem/7785)
+- 중상급
+    - 백준, 공항
+        - [https://www.acmicpc.net/problem/10775](https://www.acmicpc.net/problem/10775)
+
+### 2020년 6월 19일
+
+- 백준, N-Queen
+    - [https://www.acmicpc.net/problem/9663](https://www.acmicpc.net/problem/9663)
+
+### 2020년 6월 17일
+
+- 중하급
+    - 백준, 쉬운 계단 수
+        - [https://www.acmicpc.net/problem/10844](https://www.acmicpc.net/problem/10844)
+- 중상급
+    - atcoder, Not Visible
+        - [https://atcoder.jp/contests/abc170/tasks/abc170_d](https://atcoder.jp/contests/abc170/tasks/abc170_d)
+
+### 2020년 6월 16일
+
+- 중하급
+    - 백준, 수들의 합
+        - [https://www.acmicpc.net/problem/2003](https://www.acmicpc.net/problem/2003)
+- 중상급
+    - 백준, 두 배열의 합
+        - [https://www.acmicpc.net/problem/2143](https://www.acmicpc.net/problem/2143)
+
+### 2020년 6월 15일
+
+- 중하급
+    - 백준, 그림
+        - [https://www.acmicpc.net/problem/1926](https://www.acmicpc.net/problem/1926)
+- 중상급
+    - 백준, 말이 되고픈 원숭이
+        - [https://www.acmicpc.net/problem/1600](https://www.acmicpc.net/problem/1600)
+
+### 2020년 6월 11일
+
+- 중하급
+    - 백준, XORXORXOR
+        - [https://www.acmicpc.net/problem/12833](https://www.acmicpc.net/problem/12833)
+- 중상급
+    - atcoder, xor battle
+        - [https://atcoder.jp/contests/agc045/tasks/agc045_a](https://atcoder.jp/contests/agc045/tasks/agc045_a)
+
+2020년 6월 10일
+
+- 중하급
+    - 백준, 파스칼 삼각형
+        - [https://www.acmicpc.net/problem/15489](https://www.acmicpc.net/problem/15489)
+- 중상급
+    - 백준, 싸리와 버드의 피라미드
+        - [https://www.acmicpc.net/problem/10541](https://www.acmicpc.net/problem/10541)
+
+### 2020년 6월 8일
+
+- 중하급
+    - 백준, 헤일스톤 수열
+        - [https://www.acmicpc.net/problem/3943](https://www.acmicpc.net/problem/3943)
+- 중상급
+    - 백준, 카드 게임
+        - [https://www.acmicpc.net/problem/11062](https://www.acmicpc.net/problem/11062)
+
+### 2020년 6월 6일
+
+- 중하급
+    - 백준, 공 포장하기 1
+        - [https://www.acmicpc.net/problem/12981](https://www.acmicpc.net/problem/12981)
+- 중상급
+    - 백준, 공 포장하기 2
+        - [https://www.acmicpc.net/problem/12982](https://www.acmicpc.net/problem/12982)
+
+### 2020년 6월 4일
+
+- 중하급
+    - 백준, 카드 구매하기
+        - [https://www.acmicpc.net/problem/11052](https://www.acmicpc.net/problem/11052)
+- 중상급
+    - 백준, pqr
+        - [https://www.acmicpc.net/problem/12967](https://www.acmicpc.net/problem/12967)
+
+### 2020년 6월 3일
+
+- 중하급
+    - 백준, DFS와 BFS
+        - [https://www.acmicpc.net/problem/1260](https://www.acmicpc.net/problem/1260)
+- 중상급
+    - 백준, K진 트리
+        - [https://www.acmicpc.net/problem/11812](https://www.acmicpc.net/problem/11812)
+
+### 2020년 6월 1일
+
+- 중하급
+    - 백준, 가장 긴 감소하는 부분 수열 O(n^2)
+        - [https://www.acmicpc.net/problem/11722](https://www.acmicpc.net/problem/11722)
+- 중상급
+    - 백준, 가장 긴 증가하는 부분 수열 5 - O(nlogn)
+        - [https://www.acmicpc.net/problem/14003](https://www.acmicpc.net/problem/14003)
+
+### 2020년 5월 29일
+
+- 중하급
+    - 프로그래머스, k번째 수
+        - [https://programmers.co.kr/learn/courses/30/lessons/42748](https://programmers.co.kr/learn/courses/30/lessons/42748)
+- 중상급
+    - 코드포스, Yet Another Yet Another Task
+        - [http://codeforces.com/contest/1359/problem/D](http://codeforces.com/contest/1359/problem/D)
+
+### 2020년 5월 28일
+
+- 중하급
+    - 백준, 연속합
+        - [https://www.acmicpc.net/problem/1912](https://www.acmicpc.net/problem/1912)
+    - 프로그래머스, 동적 계획법
+        - [https://programmers.co.kr/learn/courses/30/lessons/42897](https://programmers.co.kr/learn/courses/30/lessons/42897)
+- 중상급
+    - 백준, Acka의 리듬 세상
+        - [https://www.acmicpc.net/problem/15907](https://www.acmicpc.net/problem/15907)
+
+### 2020년 5월 26일
+
+- 중하급
+    - 백준, 동전 2
+        - [https://www.acmicpc.net/problem/2294](https://www.acmicpc.net/problem/2294)
+- 중상급
+    - 백준, 흰색으로 만들기
+        - [https://www.acmicpc.net/problem/17302](https://www.acmicpc.net/problem/17302)
+
+### 2020년 5월 25일
+
+- 중하급
+    - 프로그래머스, 가장 먼 노드
+        - [https://programmers.co.kr/learn/courses/30/lessons/49189](https://programmers.co.kr/learn/courses/30/lessons/49189)
+- 중상급
+    - 백준, 동전 던지기
+        - [https://www.acmicpc.net/problem/15911](https://www.acmicpc.net/problem/15911)
+
+### 2020년 5월 21일
+
+- 중하급
+    - 프로그래머스, 제일 작은 수 제거하기
+    - [https://programmers.co.kr/learn/courses/30/lessons/12935](https://programmers.co.kr/learn/courses/30/lessons/12935)
+- 중상급
+    - 프로그래머스, 크레인 인형 뽑기 게임
+    - [https://programmers.co.kr/learn/courses/30/lessons/64061](https://programmers.co.kr/learn/courses/30/lessons/64061)
+
+### 2020년 5월 19일
+
+- 중하급
+    - 백준, 유기농 배추
+        - [https://www.acmicpc.net/problem/1012](https://www.acmicpc.net/problem/1012)
+- 중상급
+    - 백준, 결함 게임
+        - [https://www.acmicpc.net/problem/17080](https://www.acmicpc.net/problem/17080)
+
+### 2020년 5월 16일
+
+- 구글 킥스타트, 5월 17일자, 라운드 C
+- 중하급
+    - 카운트다운
+        - [https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003380d2](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003380d2)
+- 중상급
+    - 완전 부분 수열 (인풋 라지)
+        - [https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003381cb](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003381cb)
+
+### 2020년 5월 15일
+
+- 중하급
+    - 백준, 에라토스테네스의 체
+        - [https://www.acmicpc.net/problem/2960](https://www.acmicpc.net/problem/2960)
+- 중상급
+    - 백준, 곤돌라 - 교체 수열
+        - [https://www.acmicpc.net/problem/10073](https://www.acmicpc.net/problem/10073)
+
+### 2020년 5월 14일
+
+- 중하급
+    - 백준, 그룹 단어 체커
+        - [https://www.acmicpc.net/problem/1316](https://www.acmicpc.net/problem/1316)
+- 중상급
+    - 코드잼, Graceful Chainsaw Jugglers
+        - [https://codingcompetitions.withgoogle.com/codejam/round/0000000000007706/00000000000459f3](https://codingcompetitions.withgoogle.com/codejam/round/0000000000007706/00000000000459f3)
+
+### 2020년 5월 13일
+
+- 중하급
+    - 백준, 팰린드롬 만들기
+        - [https://www.acmicpc.net/problem/1213](https://www.acmicpc.net/problem/1213)
+    - 백준, 가장 긴 증가하는 팰린드롬 부분수열
+        - [https://www.acmicpc.net/problem/16161](https://www.acmicpc.net/problem/16161)
+
+### 2020년 5월 11일
+
+- 중하급
+    - 백준, 서로 다른 자연수의 합
+        - [https://www.acmicpc.net/problem/9764](https://www.acmicpc.net/problem/9764)
+- 중상급
+    - 백준, 네트워크 연결
+        - [https://www.acmicpc.net/problem/3780](https://www.acmicpc.net/problem/3780)
+
+### 2020년 5월 8일
+
+- 중하급
+    - 릿코드,  두 이진 탐색 트리의 모든 원소
+        - [https://leetcode.com/problems/all-elements-in-two-binary-search-trees/](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
+- 중상급
+    - 릿코드, K번째 기약분수
+        - [https://leetcode.com/problems/k-th-smallest-prime-fraction/description/](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/)
+
+### 2020년 5월 7일
+
+- 중하급
+    - 릿코드, Subarray Sum divisible by K
+        - [https://leetcode.com/problems/subarray-sums-divisible-by-k/](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
+- 중상급
+    - 백준, 레모네이드 거래
+        - [https://www.acmicpc.net/problem/15014](https://www.acmicpc.net/problem/15014)
+
+### 2020년 5월 6일
+
+- 중하급
+    - 백준, 가장 긴 감소하는 부분 수열
+        - [https://www.acmicpc.net/problem/11722](https://www.acmicpc.net/problem/11722)
+- 중상급
+    - 백준, King of the waves
+        - [https://www.acmicpc.net/problem/15013](https://www.acmicpc.net/problem/15013)
+
+### 2020년 5월 5일
+
+- 중하급
+    - 백준, 스텔라가 치킨을 선물했어요
+        - [https://www.acmicpc.net/problem/15905](https://www.acmicpc.net/problem/15905)
+- 중상급
+    - 백준, 스티커 수집
+        - [https://www.acmicpc.net/problem/1093](https://www.acmicpc.net/problem/1093)
+
+### 2020년 5월 4일
+
+- 중하급
+    - 백준, 패턴
+        - [https://www.acmicpc.net/problem/17300](https://www.acmicpc.net/problem/17300)
+- 중상급
+    - 백준, 색깔 통일하기
+        - [https://www.acmicpc.net/problem/17307](https://www.acmicpc.net/problem/17307)
+
+### 2020년 4월 28일
+
+- 중하급
+    - 백준, 하얀 칸
+        - [https://www.acmicpc.net/problem/1100](https://www.acmicpc.net/problem/1100)
+- 중상급
+    - 백준, 프랙탈 평면
+        - [https://www.acmicpc.net/problem/1030](https://www.acmicpc.net/problem/1030)
+
+### 2020년 4월 27일
+
+- 중하급
+    - 백준, 세 수
+        - [https://www.acmicpc.net/problem/2985](https://www.acmicpc.net/problem/2985)
+- 중상급
+    - 백준, 컵라면
+        - [https://www.acmicpc.net/problem/1781](https://www.acmicpc.net/problem/1781)
+    - 백준, 평범한 배낭 2
+        - [https://www.acmicpc.net/problem/12920](https://www.acmicpc.net/problem/12920)
+
+### 2020년 4월 24일
+
+- 중하급
+    - 백준, 최소 신장 트리, 상근이의 여행
+        - [https://www.acmicpc.net/problem/9372](https://www.acmicpc.net/problem/9372)
+- 중상급
+    - 백준, UNIST는 무엇의 약자일까?
+        - [https://www.acmicpc.net/problem/17841](https://www.acmicpc.net/problem/17841)
+
+### 2020년 4월 23일
+
+- 중하급
+    - 백준, 요세푸스 문제
+        - [https://www.acmicpc.net/problem/1158](https://www.acmicpc.net/problem/1158)
+- 중상급
+    - 백준, 숫자의 신
+        - [https://www.acmicpc.net/problem/1422](https://www.acmicpc.net/problem/1422)
+
+### 2020년 4월 22일
+
+- 중하급
+    - 백준, 미로에 갇힌 상근
+        - [https://www.acmicpc.net/problem/5069](https://www.acmicpc.net/problem/5069)
+- 중상급
+    - 백준, 나눌 수 없는 부분 수열
+        - [https://www.acmicpc.net/problem/3673](https://www.acmicpc.net/problem/3673)
+
+### 2020년 4월 19일
+
+- 중하급
+    - 백준, 트리의 부모 찾기
+        - [https://www.acmicpc.net/problem/11725](https://www.acmicpc.net/problem/11725)
+- 중상급
+    - 백준, 최대 클리크 구하기
+        - [https://www.acmicpc.net/problem/13160](https://www.acmicpc.net/problem/13160)
+
+### 2020년 4월 18일
+
+- 중하급
+    - 백준, 설탕 배달
+        - [https://www.acmicpc.net/problem/2839](https://www.acmicpc.net/problem/2839)
+- 중상급
+    - 코드 잼, 2020년, 라운드 1B 2번, 인터렉티브, Blindfolded Bullseye
+        - [https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b63](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fef2/00000000002d5b63)
+
+### 2020년 4월 17일
+
+- 중하급
+    - 백준, 분할 정복, 쿼드트리
+        - [https://www.acmicpc.net/problem/1992](https://www.acmicpc.net/problem/1992)
+- 중상급
+    - 코드 잼, 라운드 1B 2번, 미스터리 로드 사인
+    - [https://codingcompetitions.withgoogle.com/codejam/round/0000000000007764/000000000003675b](https://codingcompetitions.withgoogle.com/codejam/round/0000000000007764/000000000003675b)
+
+### 2020년 4월 16일
+
+- 중하급
+    - 백준, 투 포인터, 수들의 합 2
+        - [https://www.acmicpc.net/problem/2003](https://www.acmicpc.net/problem/2003)
+- 중상급
+    - 백준, 제 21대 국회의원 선거
+        - [https://www.acmicpc.net/problem/18891](https://www.acmicpc.net/problem/18891)
+    - 코드 잼, 2018년 1B 1, 반올림 오차
+        - [https://codingcompetitions.withgoogle.com/codejam/round/0000000000007764/0000000000036601](https://codingcompetitions.withgoogle.com/codejam/round/0000000000007764/0000000000036601)
+
+### 2020년 4월 15일
+
+- 중하급
+    - 백준, ATM
+        - [https://www.acmicpc.net/problem/11399](https://www.acmicpc.net/problem/11399)
+- 중상급
+    - 코드 잼, 와플 절단기
+        - [https://codingcompetitions.withgoogle.com/codejam/round/0000000000007883/000000000003005a](https://codingcompetitions.withgoogle.com/codejam/round/0000000000007883/000000000003005a)
+
+### 2020년 4월 13일
+
+- 중하급
+    - 백준, 부등호
+        - [https://www.acmicpc.net/problem/2529](https://www.acmicpc.net/problem/2529)
+- 중상급
+    - 백준, 구글 코드 잼, n제곱 계산
+        - [https://www.acmicpc.net/problem/12728](https://www.acmicpc.net/problem/12728)
+
+### 2020년 4월 10일
+
+- 중하급
+    - 백준, 바이러스
+        - [https://www.acmicpc.net/problem/2606](https://www.acmicpc.net/problem/2606)
+- 중상급
+    - 구글 코드 잼, 세균 전략
+        - [https://codingcompetitions.withgoogle.com/codejam/round/00000000000516b9/0000000000134cdf](https://codingcompetitions.withgoogle.com/codejam/round/00000000000516b9/0000000000134cdf)
+
+### 2020년 4월 8일
+
+- 중하급
+    - 백준, 동적 계획법, 01타일
+        - [https://www.acmicpc.net/problem/1904](https://www.acmicpc.net/problem/1904)
+- 중상급
+    - 백준, 천상용섬
+        - [https://www.acmicpc.net/problem/12758](https://www.acmicpc.net/problem/12758)
+
+### 2020년 4월 7일
+
+- 중하급
+    - 백준, 피시방 알바
+    - [https://www.acmicpc.net/problem/1453](https://www.acmicpc.net/problem/1453)
+
+- 중상급
+    - 코드 잼 1차 B 1번, 맨하탄 크레이프 카트
+    - [https://codingcompetitions.withgoogle.com/codejam/round/0000000000051706/000000000012295c](https://codingcompetitions.withgoogle.com/codejam/round/0000000000051706/000000000012295c)
+
+### 2020년 4월 6일
+
+- 중하급
+    - [https://leetcode.com/problems/smallest-range-i/](https://leetcode.com/problems/smallest-range-i/)
+- 중상급
+    - [https://leetcode.com/problems/stamping-the-sequence/](https://leetcode.com/problems/stamping-the-sequence/)
+    - 그리디
+        - 타겟이 ababc, 스탬프가 abc 인 경우, abc 인 패턴을 찾아서 물음표로 대체한다. ab???
+        - 이제 a??, ab?, ?b?, ??c 등 [0개 이상의 물음표][일치하는 문자열][0개 이상의 물음표] 인 패턴을 찾아서 일치하는 문자열을 물음표로 대체한다.
+        - 전부 물음표가 될 때까지 방법을 반복하고, 찍었던 위치의 인덱스를 뒤집어서 반환한다.
+
+### 2020년 4월 4일, 5일
+
+코드잼 예선으로 스킵 :)
+
+코드잼 2020년 예선 : [https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27)
+
+3번
+
+[https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020bdf9](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020bdf9)
+
+4번
+
+[https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9e](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9e)
+
+5번
+
+[https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209aa0](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209aa0)
+
+### 2020년 4월 2일
+
+- 중하급
+    - 백준, 코드 잼, 예선, 마술
+        - [https://www.acmicpc.net/problem/12259](https://www.acmicpc.net/problem/12259)
+- 중상급
+    - 백준, 코드 잼, 예선, 과자 선택기 알파
+    - [https://www.acmicpc.net/problem/12260](https://www.acmicpc.net/problem/12260)
+
+### 2020년 4월 1일
+
+- 중하급
+    - [https://leetcode.com/problems/decode-ways/](https://leetcode.com/problems/decode-ways/)
+- 중상급
+    - [https://leetcode.com/problems/find-all-good-strings/](https://leetcode.com/problems/find-all-good-strings/)
+
+### 2020년 3월 30일
+
+- 중하급
+    - 백준, 균형잡힌 세상
+        - [https://www.acmicpc.net/problem/4949](https://www.acmicpc.net/problem/4949)
+- 중상급
+    - 백준, 전화번호 수수께끼 (Small)
+        - [https://www.acmicpc.net/problem/14369](https://www.acmicpc.net/problem/14369)
+
+### 2020년 3월 26일
+
+- 중하급
+    - 백준, 섬의 개수
+        - [https://www.acmicpc.net/problem/4963](https://www.acmicpc.net/problem/4963)
+- 중상급
+    - 백준, 4블록
+        - [https://www.acmicpc.net/problem/14389](https://www.acmicpc.net/problem/14389)
+
+### 2020년 3월 25일
+
+- 중하급
+    - 백준, 우선순위 큐, 절대값 힙
+        - [https://www.acmicpc.net/problem/11286](https://www.acmicpc.net/problem/11286)
+- 중상급
+    - 백준, 스위치
+        - [https://www.acmicpc.net/problem/1395](https://www.acmicpc.net/problem/1395)
+
+### 2020년 3월 24일
+
+- 중하급
+    - 백준, 황금광 시대
+        - [https://www.acmicpc.net/problem/18331](https://www.acmicpc.net/problem/18331)
+- 중상급
+    - 백준, 목성 여행
+        - [https://www.acmicpc.net/problem/18713](https://www.acmicpc.net/problem/18713)
+
+### 2020년 3월 23일
+
+- 중하급
+    - 백준, 소인수분해
+        - [https://www.acmicpc.net/problem/11653](https://www.acmicpc.net/problem/11653)
+- 중상급
+    - 백준, 열차정렬
+        - [https://www.acmicpc.net/problem/4198](https://www.acmicpc.net/problem/4198)
+
+### 2020년 3월 22일
+
+- 중하급
+    - 백준, 제곱수 찾기
+        - [https://www.acmicpc.net/problem/1025](https://www.acmicpc.net/problem/1025)
+- 중상급
+    - 백준, 상남자 곽쳘용
+        - [https://www.acmicpc.net/problem/17947](https://www.acmicpc.net/problem/17947)
+
+### 2020년 3월 20일
+
+- 중하급
+    - 백준, 분할 정복, 색종이 만들기
+        - [https://www.acmicpc.net/problem/2630](https://www.acmicpc.net/problem/2630)
+- 중상급
+    - 백준, 식당
+        - [https://www.acmicpc.net/problem/6101](https://www.acmicpc.net/problem/6101)
+
+### 2020년 3월 19일
+
+- 중하급
+    - 백준, N과 M (1)
+        - [https://www.acmicpc.net/problem/15649](https://www.acmicpc.net/problem/15649)
+- 중상급
+    - 해커랭크
+        - [https://www.hackerrank.com/challenges/bonetrousle/problem](https://www.hackerrank.com/challenges/bonetrousle/problem)
+
+### 2020년 3월 18일
+
+- 중하급
+    - 백준, 블랙잭
+        - [https://www.acmicpc.net/problem/2798](https://www.acmicpc.net/problem/2798)
+- 중상급
+    - 백준, Pogo-Cow
+        - [https://www.acmicpc.net/problem/9572](https://www.acmicpc.net/problem/9572)
+
+### 2020년 3월 17일
+
+- 중하급
+    - 백준, 영화감독 숌
+        - [https://www.acmicpc.net/problem/1436](https://www.acmicpc.net/problem/1436)
+- 중상급
+    - 백준, 팰린드롬 경로
+        - [https://www.acmicpc.net/problem/2172](https://www.acmicpc.net/problem/2172)
+
+### 2020년 3월 16일
+
+- 중하급
+    - 백준, 큐, 카드
+        - [https://www.acmicpc.net/problem/2164](https://www.acmicpc.net/problem/2164)
+    - leetcode, number of steps to reduce a number to zero
+        - [https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+- 중상급
+    - 백준, USACO Gold, 팰린드롬 경로
+        - [https://www.acmicpc.net/problem/10759](https://www.acmicpc.net/problem/10759)
+
+### 2020년 3월 15일
+
+- 중하급
+    - 백준, 분할 정복, Z
+        - [https://www.acmicpc.net/problem/1074](https://www.acmicpc.net/problem/1074)
+- 중상급
+    - 해커랭크, New Year Chaos
+        - [https://www.hackerrank.com/challenges/new-year-chaos/problem](https://www.hackerrank.com/challenges/new-year-chaos/problem)
+    - 백준, OR과 쿼리
+        - [https://www.acmicpc.net/problem/18798](https://www.acmicpc.net/problem/18798)
+
+### 2020년 3월 13일
+
+- 중하급
+    - 백준, 트리
+        - [https://www.acmicpc.net/problem/1068](https://www.acmicpc.net/problem/1068)
+- 중상급
+    - 백준, USACO 2015, Bessie's Dream
+        - [https://www.acmicpc.net/problem/11965](https://www.acmicpc.net/problem/11965)
+            - [https://rebas.kr/704](https://rebas.kr/704)
+
+### 2020년 3월 12일
+
+- 중하급
+    - 백준, 삼성 역량 테스트, 퇴사, 브루트 포스, 전탐색
+        - [https://www.acmicpc.net/problem/14501](https://www.acmicpc.net/problem/14501)
+            - 풀이
+            - N<15, 시간복잡도 O(2^n) 이므로 전탐색으로도 충분히 풀 수는 있다.
+            - 계산 최적화를 위해 dp[i] 0~i번일까지 근무했을 때 얻는 최대값 으로 점화식을 세워서 얻을 수도 있다.
+            - [http://boj.kr/3fa8a67e87b74d409ab80ffb6365a252](http://boj.kr/3fa8a67e87b74d409ab80ffb6365a252)
+
+    - leetcode, 정렬, K Closest Points to Origin
+        - [https://leetcode.com/problems/k-closest-points-to-origin/](https://leetcode.com/problems/k-closest-points-to-origin/)
+- 중상급
+    - 백준, 그래프, 골목길
+        - [https://www.acmicpc.net/problem/1738](https://www.acmicpc.net/problem/1738)
+    - 백준, USACO 2015, Censor
+        - [https://www.acmicpc.net/problem/10747](https://www.acmicpc.net/problem/10747)
+
+### 2020년 3월 11일
+
+- 중하급
+    - 백준, 삼성 역량 테스트, 시험 감독
+        - [https://www.acmicpc.net/problem/13458](https://www.acmicpc.net/problem/13458)
+- 중상급
+    - 백준, POI 2009, Intelligence Test
+        - [https://www.acmicpc.net/problem/8188](https://www.acmicpc.net/problem/8188)
+
+### 2020년 3월 10일
+
+- 중하급
+    - 백준, 2013 coci, 농구 경기
+    - [https://www.acmicpc.net/problem/1159](https://www.acmicpc.net/problem/1159)
+        - 풀이
+        - [http://boj.kr/c2ccdb3401d24944973d8a6b88500ab2](http://boj.kr/c2ccdb3401d24944973d8a6b88500ab2)
+- 중상급
+    - 백준, 2013 coci, 귀농, 2차원 배열
+    - [https://www.acmicpc.net/problem/1184](https://www.acmicpc.net/problem/1184)
+        - 풀이
+        - [http://boj.kr/ff78a4b28b5b47e79020b7538ab56ebc](http://boj.kr/ff78a4b28b5b47e79020b7538ab56ebc)
+        - 모든 영역에서의 합 배열을 미리 저장해 O(1) 만에 특정한 영역의 합을 구할 수 있게 한다.
+            - 2차원 영역 합배열 : [https://lmcoa15.tistory.com/14](https://lmcoa15.tistory.com/14)
+        - 모든 좌표를 기준으로, 우상단, 좌상단, 우하단, 좌하단에서 가능한 영역의 넓이들을 저장한다.
+        - 우상단의 가능넓이를 해시맵에 저장하고, 좌하단을 순회할 때 해시맵에 우하단에 저장값이 있으면, 가능짝에서 값을 하나 더한다.
+        - 같은 방식으로 좌상단을 계산한다.
+        - 시간복잡도 O(n^4) 로 아슬아슬하게 구할 수 있다.
+
+### 2020년 3월 9일
+
+- 중하급
+    - 백준, 숫자판 점프, 깊이 우선 탐색
+        - [https://www.acmicpc.net/problem/2210](https://www.acmicpc.net/problem/2210)
+            - 풀이
+            - [http://boj.kr/d6a017b21c624590b663b5e820744213](http://boj.kr/d6a017b21c624590b663b5e820744213)
+- 중상급
+    - 백준, N의 배수 (1), 동적 프로그래밍
+        - [https://www.acmicpc.net/problem/18790](https://www.acmicpc.net/problem/18790)
+            - 풀이
+            - [http://boj.kr/53e751498d6c41f9b52709d4fae07335](http://boj.kr/53e751498d6c41f9b52709d4fae07335)
+            - dp(range, picking_number, sum_of_mod) : 0..<range 에서 picking_number 개 뽑았을 때 합이 sum_of_mod 인 해가 있는지 여부 (bool)
+            - dp(range, picking_number, sum_of_mod) 에 range 번째 원소가 포함된 경우, 
+            dp(range-1, picking_number-1, sum_of_mod) 와 가능성이 동치이다.
+            - 반면 range 번째 원소가 포함되지 않을 경우, range-1 범위에서 picking_number개 만큼 고르고, 그 합이 sum_of_mod - (range 번째 원소의 값) 과 가능성이 동치이다.
+            - n*3 만큼 순회하고 각각 가능성마다 range 번째 원소의 포함 / 불포함 여부를 기억해 낸 후 백트래킹한다.
+
+### 2020년 3월 7일
+
+- 중하급
+    - 백준, 이분 탐색, 수 찾기
+        - [https://www.acmicpc.net/problem/1920](https://www.acmicpc.net/problem/1920)
+- 중상급
+    - 백준, 젓가락
+    - [https://www.acmicpc.net/problem/2256](https://www.acmicpc.net/problem/2256)
+
+### 2020년 3월 6일
+
+- 중하급
+    - 백준, 연속합
+        - [https://www.acmicpc.net/problem/1912](https://www.acmicpc.net/problem/1912)
+            - 풀이
+            - [http://boj.kr/69b554cc0380495d8b8e40cd973eea36](http://boj.kr/69b554cc0380495d8b8e40cd973eea36)
+- 중상급
+    - 백준, 조쌤포스 1
+        - [https://www.acmicpc.net/problem/1177](https://www.acmicpc.net/problem/1177)
+    - 백준, Message Passing
+        - [https://www.acmicpc.net/problem/13328](https://www.acmicpc.net/problem/13328)
+            - 풀이
+            - [https://www.acmicpc.net/source/18214145](https://www.acmicpc.net/source/18214145)
+            - f(x) = f(x-1) + +++ f(x-d) (이전 값 d개의 합) 이다.
+            - 피보나치와 유사함을 이용해서 행렬을 정의할 수 있다.
+            1, 1, 1, 1,
+            1, 0, 0, 0
+            0, 1, 0, 0
+            0, 0, 1, 0
+            형식의 행렬을 적절히 구하면, 다음 항을 구할 수 있다.
+            - 해당 행렬 A의 2진 거듭제곱을 적당히 구해서, A ^ t 를 짧은 시간 안에 구해낸다.
+            - f(0), f(1), ... , f(d-1) 를 벡터로 만들어 행렬에 곱해서 나온 벡터의 0번째 원소를 리턴한다.
+
+### 2020년 3월 5일
+
+- 중하급
+    - 백준, 동전 1
+        - [https://www.acmicpc.net/problem/2293](https://www.acmicpc.net/problem/2293)
+- 중상급
+    - 백준, Hovering Hornet
+        - [https://www.acmicpc.net/problem/11620](https://www.acmicpc.net/problem/11620)
+
+### 2020년 3월 4일
+
+- 중하급
+    - 해커랭크, 퀸즈 어택
+        - [https://www.hackerrank.com/challenges/queens-attack-2/problem](https://www.hackerrank.com/challenges/queens-attack-2/problem)
+    - 백준, 나이트의 이동, BFS
+        - [https://www.acmicpc.net/problem/7562](https://www.acmicpc.net/problem/7562)
+        - 풀이
+            - [http://boj.kr/134d5a4528aa41e9af818c4ebefe54b5](http://boj.kr/134d5a4528aa41e9af818c4ebefe54b5)
+            - BFS 로, 턴을 하나씩 증가해나간다.
+            - 각 턴마다 다음에 나이트가 있을 수 있는 칸을 표기하고, 이미 방문하지 않았으면 큐에 넣는다.
+            - 돌아온 칸이 목표한 칸과 같으면 턴을 출력한다.
+- 중상급
+    - 백준, coci 2015, K진 트리, DFS
+        - [https://www.acmicpc.net/problem/11812](https://www.acmicpc.net/problem/11812)
+        - 풀이
+            - [http://boj.kr/01877f9f39fe43d1bf38869403381ac3](http://boj.kr/01877f9f39fe43d1bf38869403381ac3)
+            - [https://www.acmicpc.net/blog/view/93](https://www.acmicpc.net/blog/view/93)
+            - 입력이 너무 크므로, O(logN) 안에 수행해야 한다.
+            - 계차수열을 생각하여, 각 뎁스의 맨 마지막 값을 저장한다.
+            k=3 일 때 (트리의 각 값을 1을 빼면) 뎁스 맨 마지막 값은
+            0, 3, 3+9, 3+9+27... 일 것이다.
+            - 뎁스가 같으면, 부모가 같아질 때까지 부모로 올라가면서, 올라간 횟수 * 2 를 리턴한다.
+            - 뎁스가 같으면, 먼 뎁스의 자식을 뎁스가 같아질때까지 올라가면서, 올라간 횟수 + 앞서 구한 뎁스가 같을 때의 함수값 을 리턴한다.
+            - K=1 일 때 시간초과가 나므로, 특별히 |a-b| 를 리턴한다.
+
+### 2020년 3월 3일
+
+- 중하급
+    - 해커랭크, Triple Sum (난이도 중급)
+        - [https://www.hackerrank.com/challenges/triple-sum/problem](https://www.hackerrank.com/challenges/triple-sum/problem)
+    - 릿코드, Top K Frequent Elements (난이도 초급)
+        - [https://leetcode.com/problems/top-k-frequent-elements/](https://leetcode.com/problems/top-k-frequent-elements/)
+- 중상급
+    - 백준, 본대 산책 3
+        - [https://www.acmicpc.net/problem/14289](https://www.acmicpc.net/problem/14289)
+        - 풀이
+            - [http://boj.kr/549fc8f7151e4a5fa12d4cb483051429](http://boj.kr/549fc8f7151e4a5fa12d4cb483051429)
+            - 경로를 인접행렬로 계산하고, A 로 정의한다.
+            - A^D 의 1행 1열 값을 출력하는 문제이다.
+            - D가 너무 크므로, 선형적으로 거듭제곱을 반복하는 방식으로는 풀기 어렵다.
+            - log2(1,000,000,000) = 32 이므로.. 
+            A, A^2, A^4, ... A^(2^32) 값을 선계산한다.
+            - D 를 2의 거듭제곱의 합으로 분해하여 선계산한 값들을 꺼내어 제곱하여 내놓는다.
+            - 상수 커팅
+                - [http://www.secmem.org/blog/2019/11/13/Constant-2/](http://www.secmem.org/blog/2019/11/13/Constant-2/)
+                - [http://www.secmem.org/blog/2019/10/17/Constant/](http://www.secmem.org/blog/2019/10/17/Constant/)
+
+### 2020년 3월 2일
+
+- 중하급
+    - 프로그래머스, 나누어 떨어지는 숫자 배열
+        - [https://programmers.co.kr/learn/courses/30/lessons/12910](https://programmers.co.kr/learn/courses/30/lessons/12910)
+- 중상급
+    - 백준, 사과나무
+        - [https://www.acmicpc.net/problem/2233](https://www.acmicpc.net/problem/2233)
+
+### 2020년 3월 1일
+
+- 중하급
+    - 프로그래머스, 쇠막대기
+        - [https://programmers.co.kr/learn/courses/30/lessons/42585](https://programmers.co.kr/learn/courses/30/lessons/42585)
+
+        ```cpp
+        #include <iostream>
+        #include <queue>
+        #include <vector>
+        #include <stack>
+        using namespace std;
+
+        int solution(string arrangement) {
+
+            int answer = 0;
+            stack<char> st;
+            for (auto i=0; i< arrangement.length(); i++){
+                if (arrangement[i]=='(') st.push(arrangement[i]);
+                else {
+                    st.pop();
+                    if (arrangement[i-1]=='('){
+                        answer += st.size();
+                    }else {
+                        answer++;
+                    }
+                }
+            }
+            return answer;
+        }
+        ```
+
+- 중상급
+    - 백준, 크리스마스 선물
+        - [https://www.acmicpc.net/problem/3131](https://www.acmicpc.net/problem/3131)
+
 
 ### 2020년 2월 29일
 
