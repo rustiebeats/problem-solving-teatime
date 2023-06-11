@@ -20,12 +20,6 @@
 [https://www.acmicpc.net/category/850](https://www.acmicpc.net/category/850)
 문의 환영 
 
-# 깃허브 링크
-
-[https://github.com/sesang06/problem-solving-teatime](https://github.com/sesang06/problem-solving-teatime)
-
-- ~~노션의 미러버전으로, 일이주에 한번 정도만 커밋됩니다. ~~
-
 # 규칙
 
 - ~~하루에 한문제씩 향유합니다.~~
