@@ -8,33 +8,34 @@
 
 [https://open.kakao.com/o/g3antjMb](https://open.kakao.com/o/g3antjMb)
 
-# 노션 링크
+# 노션 링크 (Deprecated)
 
-[https://www.notion.so/PS-da8977089c2344dba9bdbc3d0188d286](https://www.notion.so/PS-da8977089c2344dba9bdbc3d0188d286)
+~~[https://www.notion.so/PS-da8977089c2344dba9bdbc3d0188d286](https://www.notion.so/PS-da8977089c2344dba9bdbc3d0188d286)
 
 # 깃허브 링크
 
 [https://github.com/sesang06/problem-solving-teatime](https://github.com/sesang06/problem-solving-teatime)
 
-- 노션의 미러버전으로, 일이주에 한번 정도만 커밋됩니다.
+- ~~노션의 미러버전으로, 일이주에 한번 정도만 커밋됩니다. 
 
 # 규칙
 
-- 하루에 한문제씩 향유합니다.
-- 무슨 문제를 향유할지는 의견이 없으면 제가 제시합니다.
-- 의견 제안은 제가 아침에 새로운 향유문제를 올리기 전까지입니다.
-- 낮에는 (2시 ~8시) 풀고 인증합니다.
-- 어려운 문제가 나왔을 때는, 4시부터 서로 힌트를 주고받습니다.
-- 밤 8시 부터 푼 문제의 코드를 공개합니다.
+- ~~하루에 한문제씩 향유합니다.
+- ~~무슨 문제를 향유할지는 의견이 없으면 제가 제시합니다.
+- ~~의견 제안은 제가 아침에 새로운 향유문제를 올리기 전까지입니다.
+- ~~낮에는 (2시 ~8시) 풀고 인증합니다.
+- ~~어려운 문제가 나왔을 때는, 4시부터 서로 힌트를 주고받습니다.
+- ~~밤 8시 부터 푼 문제의 코드를 공개합니다.
 
 # 항유회를 즐기는 방법
 
-- 점심 시간에 중상급 한 문제를 풀기
-- 점심 시간에 중하급 두 문제를 풀기
-- 특이한 언어로 중하급 두 문제를 풀기
-- 주중에 나온 문제를 주말에 몰아 풀고 올리기
+- 문제를 푸는 그 자체를 재밌게 즐기기.
+- ~~점심 시간에 중상급 한 문제를 풀기
+- ~~점심 시간에 중하급 두 문제를 풀기
+- ~~특이한 언어로 중하급 두 문제를 풀기
+- ~~주중에 나온 문제를 주말에 몰아 풀고 올리기
 
-# 뉴비 입문
+# Resources 
 
 ## 서적
 
@@ -48,8 +49,10 @@
 - 그릭포그릭
     - [https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/)
 
-- 문제집
-    - [https://solved.ac/problems/](https://solved.ac/problems/)
+- 향유회 그룹 a.k.a 백랜디
+    - [https://www.acmicpc.net/group/12543](https://www.acmicpc.net/group/12543)
+- USACO Guide  
+    - [https://usaco.guide/](https://usaco.guide/)
 
 ### CS 강의
 
@@ -61,6 +64,13 @@
     - [https://www.acmicpc.net/](https://www.acmicpc.net/)
 - 릿코드
     - [https://leetcode.com/](https://leetcode.com/)
+- 코드포스
+    - [https://codeforces.com/](https://codeforces.com/)
+- 앳코더
+    - [https://atcoder.jp/](https://atcoder.jp/)
+- 유키코더
+    - [https://yukicoder.me/](https://yukicoder.me/)
+
 
 # 알고리즘 대회 캘린더
 
@@ -69,20 +79,6 @@
 해커랭크 캘린더 : https://www.hackerrank.com/calendar
 
 알고리즘 대회 캘린더 : https://competitiveprogramming.info/calendar
-
-# 추천문제 자동생성기
-
-추천문제 템플릿을 자동으로 생성하여 관리하고 있습니다.
-
-https://github.com/sesang06/ps-teatime-template
-
-# 공지 : PS 향유회 알고리즘 대회
-
-- 알고리즘 대회를 준비하고 있습니다.
-- 10월 출시 목표입니다.
-- 외부 검수자를 모집하고 있습니다. 지원하시는 분은 카톡방에서 말씀해 주세요.
-
- 
 
 # 향유문제
 
