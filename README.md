@@ -10,7 +10,7 @@
 
 # 노션 링크 (Deprecated)
 
-~~[https://www.notion.so/PS-da8977089c2344dba9bdbc3d0188d286]~~(https://www.notion.so/PS-da8977089c2344dba9bdbc3d0188d286)
+~~[https://www.notion.so/PS-da8977089c2344dba9bdbc3d0188d286]~~
 
 # 깃허브 링크
 
@@ -23,7 +23,6 @@
 - ~~하루에 한문제씩 향유합니다.~~
 - ~~무슨 문제를 향유할지는 의견이 없으면 제가 제시합니다.~~
 - ~~의견 제안은 제가 아침에 새로운 향유문제를 올리기 전까지입니다.~~
-- ~~낮에는 (2시 ~8시) 풀고 인증합니다.~~
 - ~~어려운 문제가 나왔을 때는, 4시부터 서로 힌트를 주고받습니다.~~
 - ~~밤 8시 부터 푼 문제의 코드를 공개합니다.~~
 
@@ -54,11 +53,11 @@
 - USACO Guide  
     - [https://usaco.guide/](https://usaco.guide/)
 
-### CS 강의
+## CS 강의
 
 [https://github.com/prakhar1989/awesome-courses#algorithms](https://github.com/prakhar1989/awesome-courses#algorithms)
 
-# 플랫폼
+## 플랫폼
 
 - 백준
     - [https://www.acmicpc.net/](https://www.acmicpc.net/)
@@ -71,8 +70,11 @@
 - 유키코더
     - [https://yukicoder.me/](https://yukicoder.me/)
 
+## 블로그
 
-# 알고리즘 대회 캘린더
+- https://blog.naver.com/bnb2011(https://blog.naver.com/bnb2011)
+
+## 알고리즘 대회 캘린더
 
 엣코더, 코드포스 등 대회를 자주 확인할 수 있습니다. 구글 캘린더로 등록하면 유용합니다.
 
