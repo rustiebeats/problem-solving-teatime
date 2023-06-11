@@ -8,6 +8,9 @@
 
 [https://open.kakao.com/o/g3antjMb](https://open.kakao.com/o/g3antjMb)
 
+# 그룹 링크
+[https://www.acmicpc.net/group/12543](https://www.acmicpc.net/group/12543)
+
 # 노션 링크 (Deprecated)
 
 ~~[https://www.notion.so/PS-da8977089c2344dba9bdbc3d0188d286]~~
