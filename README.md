@@ -15,6 +15,11 @@
 
 ~~[https://www.notion.so/PS-da8977089c2344dba9bdbc3d0188d286]~~
 
+# 월간 향유회 
+
+[https://www.acmicpc.net/category/850](https://www.acmicpc.net/category/850)
+문의 환영 
+
 # 깃허브 링크
 
 [https://github.com/sesang06/problem-solving-teatime](https://github.com/sesang06/problem-solving-teatime)
