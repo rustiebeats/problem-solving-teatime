@@ -49,7 +49,6 @@
 
 - 그릭포그릭
     - [https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/)
-
 - 향유회 그룹 a.k.a 백랜디
     - [https://www.acmicpc.net/group/12543](https://www.acmicpc.net/group/12543)
 - USACO Guide  
@@ -74,7 +73,10 @@
 
 ## 블로그
 
-- https://blog.naver.com/bnb2011(https://blog.naver.com/bnb2011)
+- [https://blog.naver.com/kks227](https://blog.naver.com/kks227)
+- [https://blog.naver.com/bnb2011](https://blog.naver.com/bnb2011)
+- [BaaaaaaaarkingDog](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+- [뉴비의 PS 도전기](https://kim1109123.tistory.com/)
 
 ## 알고리즘 대회 캘린더
 
