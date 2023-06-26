@@ -53,6 +53,8 @@
     - [https://www.acmicpc.net/group/12543](https://www.acmicpc.net/group/12543)
 - USACO Guide  
     - [https://usaco.guide/](https://usaco.guide/)
+- OI Wiki (Chinese)
+    - [https://oi-wiki.org/](https://oi-wiki.org/)
 
 ## CS 강의
 
